@@ -1,0 +1,10 @@
+__pycache___/*.pyc
+*.ipynb
+.ipynb_checkpoints/*
+data/
+model/
+*.pyc
+.idea/*.xml
+.idea/*.iml
+.idea/
+__pycache__/
