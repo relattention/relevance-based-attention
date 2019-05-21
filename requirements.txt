@@ -1,0 +1,12 @@
+pandas==0.20.1
+pytorch_pretrained_bert==0.6.1
+numpy==1.13.1
+torch==1.1.0
+tqdm==4.14.0
+datashape==0.5.2
+ptvsd==4.2.7
+scikit_learn==0.20.3
+
+# git clone https://github.com/NVIDIA/apex
+# cd apex
+# pip install -v --no-cache-dir --global-option="--cuda_ext" .
